@@ -1,0 +1,5 @@
+8- Faça um programa que peça um número inteiro(Considere o número 100) e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1. Caso este número não seja primo, imprima na tela também o maior número primo antes dele.
+Exemplo:
+Insira um número: (100)
+Este número: é(ou não) primo
+A senha para o desafio 9 é: {}

@@ -1,0 +1,1 @@
+7- Crie uma lista com as idades e alturas de 20 clientes. Faça um Programa que determine quantos clientes com mais de 18 anos possuem altura inferior à média de altura desses clientes. A resposta deverá retornar um número inteiro. Em seguida insira este número no desafio anterior e novamente o programa dirá a senha para o próximo desafio.

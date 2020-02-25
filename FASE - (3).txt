@@ -1,0 +1,1 @@
+3- Na fase 3, faça um Programa que peça 5 números (digite quando solicitado: 8, 9, 1, 7 e 28) e imprima o menor, o maior e a média deles. Seu programa deve também somar estes 3 números(menor, maior e média), converta-os para inteiro e imprima "A SENHA PARA A FASE 4 É {coloque aqui o resultado da soma}"

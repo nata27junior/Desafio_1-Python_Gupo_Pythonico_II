@@ -1,0 +1,1 @@
+1- Faça um Programa que mostre a média da soma dos números 7, 4, 9, 9, 9, 7, 0, 3, 0, 2, 3. Converta este valor para inteiro e encontrará a senha para o desafio 2, boa sorte.

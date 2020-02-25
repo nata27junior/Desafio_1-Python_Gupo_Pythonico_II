@@ -1,0 +1,8 @@
+6- Faça um programa que adivinhe a senha para o próximo desafio. Como?? Simples!
+1º passo: Peça um número qualquer do usuário, qualquer número mesmo, o que ele pensar na hora.
+2º passo: Multiplique este número digitado por 2.
+3º passo: Some a resposta com 8.
+4º passo: Divida o resultado por 2
+5º passo: Diminua o número que o usuário digitou no início.
+
+Abracadabra!!! Faça isso e seu programa encontrará a senha.

@@ -1,0 +1,7 @@
+5- Opa, já chegou na metade \0/ . Agora faça um programa que leia uma palavra composta por caracteres alfanúméricos (letras e números) e imprima as vogais, consoantes e numeros um abaixo do outro:
+VOGAIS: O
+CONSOANTES: P,Y,T,H,N
+NÚMEROS: 2020
+
+Considere python2020 como a palavra de entrada e retorne como saída as letras em maiúsculas.
+Está se perguntando cadê a senha? ela é a própria palavra em maiúscula. Fácil né !? :D

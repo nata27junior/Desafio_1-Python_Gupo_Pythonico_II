@@ -1,0 +1,2 @@
+2- Faça um programa que peça um conjunto de números inteiros entre 0 e 10 (considere o 10), calcule e mostre na tela a quantidade de números pares e a quantidade de números ímpares.
+A senha será a quantidade de números ímpares desta sequência.
